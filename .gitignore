@@ -1,0 +1,6 @@
+*.zip
+*.pth
+data/
+models/
+venv/
+__pycache__/
